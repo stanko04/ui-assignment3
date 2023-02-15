@@ -11,4 +11,4 @@ Project is implemented in programming language **Python**.
 
 ## For more information click on these links 
 ### [Documentation, analysis of algorithms, description of source code and etc. in slovak language](DOC/doc_assign3.pdf)
-### [Source code](src/)
+### [Source code](src/main.py)
